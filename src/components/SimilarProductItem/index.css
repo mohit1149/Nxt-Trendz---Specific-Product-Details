@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item {
+  width: 21vw;
+  list-style-type: none;
+  margin-right: 10px;
+}
+.similar-product-card-image {
+  border-radius: 10px;
+  width: 20vw;
+}
+.small-containers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.similar-span-available {
+  font-weight: 700;
+}
